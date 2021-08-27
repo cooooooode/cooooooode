@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on the world
 - 📫 How to reach me https://cooooooode.github.io/
+- You are not a real programmer if you don’t know how to debug your applications!
 
 <!---
 cooooooode/cooooooode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
